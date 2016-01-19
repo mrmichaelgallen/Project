@@ -52,4 +52,34 @@ To get what has been modified in short hand:
 
 	git status -s
 
-testline
+To see the branches:
+
+	git branch
+
+To create a new branch:
+
+	git brand 'r2_index'
+
+To clone a repository:
+
+	git clone <past ssh link from GitHub>
+
+To switch between branches:
+
+	git checkout <name of branch you want to go to>
+
+To push:
+
+	git push github <name of branch you want sent to GitHub>
+
+To merge:
+
+	git merge master (the one you want to merge)
+
+If you get stuck use shift + zz to release from text
+
+To Pull - moves code from remote repository with a local repository:
+
+	git pull github <name of branch to pull from>
+
+Always to a Pull before a Push to minimize conflicts so you can resolve conflicts locally.
