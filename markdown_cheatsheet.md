@@ -1,4 +1,4 @@
-Alt-H3 Quick Markdown Cheatsheet
+Quick Markdown Cheatsheet
 ======
 __Sources:__ 
 * [Daring Fireball](http://daringfireball.net/projects/markdown/syntax)
