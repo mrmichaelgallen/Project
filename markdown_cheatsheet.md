@@ -2,6 +2,6 @@ Quick Markdown Cheatsheet
 
 Source: [Daring Fireball](http://daringfireball.net/projects/markdown/syntax)
 
-Bullets = * Text
-Bold = __Text__
-Horizontal rule = ***
+* Bullets = * Text
+* Bold = __Text__
+* Horizontal rule = ***
