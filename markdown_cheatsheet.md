@@ -1,9 +1,13 @@
 Quick Markdown Cheatsheet
 
-Source: [Daring Fireball](http://daringfireball.net/projects/markdown/syntax)
+Sources: 
+[Daring Fireball](http://daringfireball.net/projects/markdown/syntax)
+[adam-p markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 
 * Bullets = * Text
 * Bold = __Text__
 * Horizontal rule = ***
 
-<mr.michael.g.allen@gmail.com>
+This <mr.michael.g.allen@gmail.com>
+
+
