@@ -1,4 +1,4 @@
-A list of project ideas...
+<strong>A list of project ideas...</strong>
 
 <ul>
 <li>A running pace calculator</li>
