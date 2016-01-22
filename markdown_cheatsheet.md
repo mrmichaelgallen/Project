@@ -1,6 +1,6 @@
 Quick Markdown Cheatsheet
 ======
-__Sources:__ 
+###Sources 
 * [Daring Fireball](http://daringfireball.net/projects/markdown/syntax)
 * [adam-p markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 
