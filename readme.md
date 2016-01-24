@@ -1,7 +1,6 @@
-<strong>A list of project ideas...</strong>
+###A list of project ideas...
+***
 
-<ul>
-<li>A running pace calculator</li>
-<li>A image renaming program</li>
-<li>30 Day Coding Challenge?</li>
-</ul>
+* A running pace calculator
+* A image renaming program
+* 30 Day Coding Challenge?
