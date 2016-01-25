@@ -15,3 +15,15 @@
 * Races
 * Volunteer hours and type of 
 * Board Membership and dates held post
+* 
+
+##### A profile page
+* List all of the members
+* 
+
+
+##### Security
+* Make sure to have SQL Injection preventing coding
+* Signin required
+* Membership # will come from RunSignUp for consistency
+* ORRC Web Master will create or validate the account
