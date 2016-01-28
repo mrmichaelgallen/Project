@@ -13,3 +13,7 @@ This is my repository for ideas that I want to try and create.
 
 #### CSS Animation Projects
 * Creating moving creatures from CSS, flowers that bloom, users interaction with mouse that causes cars to move
+
+
+### Github
+* Create a script to rename (move) multiple files from one path to another.
