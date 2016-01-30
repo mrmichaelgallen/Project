@@ -14,6 +14,7 @@ This is my repository for ideas that I want to try and create.
 
 ### CSS Animation Projects
 * Creating moving creatures from CSS, flowers that bloom, users interaction with mouse that causes cars to move
+* Creating an interactive scene using CSS and images (Dog image coming out of the Doghouse when hover over is done)
 
 
 ### Github
