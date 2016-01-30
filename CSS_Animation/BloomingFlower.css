@@ -1,0 +1,30 @@
+.box {
+	width: 500px;
+	height: 500px;
+	margin: 35px auto;
+	border-radius: 15px;
+
+	background: -webkit-linear-gradient(orange, darkblue, green, purple);
+}
+
+
+.flowerPot{
+  border: 5px solid green;
+}
+
+
+.boxTest {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
+
+
+.trapezoidReversed {
+	border-bottom: 100px solid red;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	height: 0;
+	width: 100px;
+}

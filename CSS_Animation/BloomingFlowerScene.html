@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blooming Flower Scene</title>
+    <link rel=”stylesheet” type=”text/css” href=”BloomingFlower.css”>
+</head>
+
+<style>
+
+    body {
+    margin: 0;
+    padding: 0;
+}
+
+    .pictureFrame {
+        width: 800px;
+        height: 800px;
+        border: 5px inset #000000;
+        position: relative;
+    vertical-align: middle
+
+    }
+
+    .pictureFrame .pictureContents{
+    margin: auto;
+    position: absolute;
+    bottom: 0px;
+    vertical-align: middle
+    }
+
+.flowerStem {
+    width: 10px;
+    height: 250px;
+    border: 1px solid green;
+    background: green;
+    }
+
+.flowerPotTop {
+    width: 200px;
+    border: 5px groove gray;
+    background: #990000;
+    margin: 0;
+}
+    .trapezoidReversed {
+	border-top: 100px solid #990000;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	height: 0;
+	width: 100px;
+}
+    .flowerPotBottom {
+    width: 90px;
+    border: 5px groove gray;
+    background: #990000;
+    margin: 0;
+    }
+
+.vertical_align {
+    float: center;
+    position: relative;
+}
+
+    #burst-12 {
+    background: red;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    text-align: center;
+}
+#burst-12:before, #burst-12:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 120px;
+    width: 120px;
+    background: red;
+}
+#burst-12:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+#burst-12:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+
+.circle {
+	width: 50px;
+	height: 50px;
+    position: absolute;
+	background: blue;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+
+</style>
+
+<body>
+<!-- Picture Frame -->
+<div class="pictureFrame">
+<div class="pictureContents">
+<div align="center">
+
+<!-- Flower Base -->
+<!--<div class="circle"></div>-->
+<div id="burst-12"></div>
+
+
+<!-- Flower Stem -->
+<div class="flowerStem"></div>
+
+<!-- Flower Pot -->
+<div class="flowerPotTop"></div>
+<div class="trapezoidReversed"></div>
+<div class="flowerPotBottom"></div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>
