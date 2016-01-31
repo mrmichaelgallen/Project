@@ -19,3 +19,6 @@ This is my repository for ideas that I want to try and create.
 
 ### Github
 * Create a script to rename (move) multiple files from one path to another.
+
+### The "Case" Assignments
+* Figure out an equation that can be converted into code that will infer equivelants
