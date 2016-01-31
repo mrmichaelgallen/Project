@@ -17,23 +17,24 @@
         width: 800px;
         height: 800px;
         border: 5px inset #000000;
-        position: relative;
+        position: absolute;
     vertical-align: middle
 
     }
 
-    .pictureFrame .pictureContents{
+ .pictureContents{
     margin: auto;
     position: absolute;
     bottom: 0px;
-    vertical-align: middle
     }
 
-.flowerStem {
+#flowerStem {
+    position: -50px;
     width: 10px;
     height: 250px;
     border: 1px solid green;
     background: green;
+    z-index: 1;
     }
 
 .flowerPotTop {
@@ -91,36 +92,85 @@
 }
 
 .circle {
-	width: 50px;
-	height: 50px;
-    position: absolute;
-	background: blue;
+	width: 100px;
+	height: 100px;
+    position: relative;
+    z-index: 3;
+	background: black;
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
 	border-radius: 50%;
 }
 
 
+
+#infinity {
+    position: relative;
+    width: 175px;
+    height: 0px;
+}
+
+#infinity:before,
+#infinity:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 60px;
+    border: 20px solid green;
+    background: green;
+    z-index: 2;
+    -moz-border-radius: 50px 50px 0 50px;
+         border-radius: 50px 50px 0 50px;
+    -webkit-transform: rotate(-45deg);
+       -moz-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+         -o-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+}
+
+#infinity:after {
+    left: auto;
+    right: 0;
+    -moz-border-radius: 50px 50px 50px 0;
+         border-radius: 50px 50px 50px 0;
+    -webkit-transform: rotate(45deg);
+       -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+         -o-transform: rotate(45deg);
+            transform: rotate(45deg);
+}
+
+
+
 </style>
 
 <body>
 <!-- Picture Frame -->
-<div class="pictureFrame">
-<div class="pictureContents">
+<div class="pictureFrame" style="margin: auto;">
+<div class="pictureContents" style="margin: auto;">
 <div align="center">
 
 <!-- Flower Base -->
-<!--<div class="circle"></div>-->
-<div id="burst-12"></div>
+    <div id="burst-12"></div>
+<div class="circle"></div>
+
 
 
 <!-- Flower Stem -->
-<div class="flowerStem"></div>
+<div id="infinity"></div>
+<div id="flowerStem"></div>
+
+
+
+
 
 <!-- Flower Pot -->
 <div class="flowerPotTop"></div>
 <div class="trapezoidReversed"></div>
 <div class="flowerPotBottom"></div>
+
 
 </div>
 </div>
