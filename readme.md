@@ -25,3 +25,6 @@ This is my repository for ideas that I want to try and create.
 
 ### The "Case" Assignments
 * Figure out an equation that can be converted into code that will infer equivelants
+
+### Other ideas
+* App to help people learn terms
