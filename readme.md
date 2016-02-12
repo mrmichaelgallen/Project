@@ -30,4 +30,5 @@ This is my repository for ideas that I want to try and create.
 * App to help people learn terms
 
 ### Social Justice
-* Apps to help poor manage resources better and get help when needed.
+* Apps to help poor manage resources better and get help when needed
+* Apps for tracking when social services are available
