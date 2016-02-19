@@ -26,10 +26,13 @@ This is my repository for ideas that I want to try and create.
 ### The "Case" Assignments
 * Figure out an equation that can be converted into code that will infer equivelants
 
+### Python
+* Using classes and objects, build a starship assembly GAME for building a cool 2D Ship
+
 ### Other ideas
 * App to help people learn terms
 
 ### Social Justice
 * Apps to help poor manage resources better and get help when needed
 * Apps for tracking when social services are available
-* ABCD
+* ABCD Reporting issues
