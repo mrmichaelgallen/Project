@@ -27,7 +27,8 @@ This is my repository for ideas that I want to try and create.
 * Figure out an equation that can be converted into code that will infer equivelants
 
 ### Python
-* Using classes and objects, build a starship assembly GAME for building a cool 2D Ship
+* Using classes and objects, build a starship assembly GAME for building a cool 2D Ship, add set amount to spend so they have to budget their resources
+* Create a maze game
 
 ### Other ideas
 * App to help people learn terms
