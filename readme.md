@@ -30,6 +30,7 @@ This is my repository for ideas that I want to try and create.
 * Using classes and objects, build a starship assembly GAME for building a cool 2D Ship, add set amount to spend so they have to budget their resources
 * Create a maze game
 * Create text game
+* Create a reminder app
 
 ### Other ideas
 * App to help people learn terms
