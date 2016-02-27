@@ -15,6 +15,7 @@ This is my repository for ideas that I want to try and create.
 
 ### Productivity
 * Program that helps people use the keyboard on a computer (Teaching them how to maximize it, timing them on speed, and doing a Hackathon timed event)
+* To Do List that collects the completed tasks in a database
 
 ### CSS Animation Projects
 * Creating moving creatures from CSS, flowers that bloom, users interaction with mouse that causes cars to move
