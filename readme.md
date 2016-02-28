@@ -6,6 +6,7 @@ This is my repository for ideas that I want to try and create.
 ### Fun Ideas
 * A running pace calculator
 * Webscrapper for GarminConnect DataSet
+* Webscrapper to grap latest APOD photos and download
 * A image file renaming program with GUI (Like a friend created for me back when digital photography started.
 * 30 Day Coding Challenge?
 * Make an astromony app that web scraps NASAs data and let's user get their exact distance from other planets including Planet X!!!!
@@ -22,7 +23,6 @@ This is my repository for ideas that I want to try and create.
 * Creating an interactive scene using CSS and images (Dog image coming out of the Doghouse when hover over is done)
 * Smiley face that blinks, winks and frowns
 * Bricks to Pyramids formation.
-
 
 ### Github
 * Create a script to rename (move) multiple files from one path to another.
@@ -42,7 +42,7 @@ This is my repository for ideas that I want to try and create.
 ### Social Justice
 * Apps to help poor manage resources better and get help when needed
 * Apps for tracking when social services are available
-* ABCD Reporting issues
+* Reporting issues
 * Develop an app to help people give real help to the needy, so they can't use cash to buy addictive substances
 
 #### Drones
