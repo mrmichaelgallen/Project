@@ -39,6 +39,7 @@ This is my repository for ideas that I want to try and create.
 
 ### Other ideas
 * App to help people learn terms
+* Create a database dictionary for tech terms that also can be a flash cards
 
 ### Social Justice
 * Apps to help poor manage resources better and get help when needed
