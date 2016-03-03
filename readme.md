@@ -37,6 +37,7 @@ This is my repository for ideas that I want to try and create.
 * Create a maze game
 * Create text game
 * Create a reminder app
+* Create an Exact "How Old You Are" by using birthdate and current date now()
 
 ### Other ideas
 * App to help people learn terms
