@@ -19,6 +19,7 @@ This is my repository for ideas that I want to try and create.
 * To Do List that collects the completed tasks in a database
 * An application that has a to do list always available as a popout from the side of the screen
 * Check list for bootcamp students
+* App to remind of pending transactions and Due dates
 
 ### CSS Animation Projects
 * Creating moving creatures from CSS, flowers that bloom, users interaction with mouse that causes cars to move
