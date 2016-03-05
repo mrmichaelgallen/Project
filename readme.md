@@ -1,7 +1,7 @@
 ### Projects in Progress by Michael Allen
 ***
 
-This is my repository for ideas that I want to try and create. 
+This is my repository for ideas that I want to develop.
 
 ### Fun Ideas
 * A running pace calculator
