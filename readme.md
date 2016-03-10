@@ -34,6 +34,9 @@ This is my repository for ideas that I want to develop.
 ### The "Case" Assignments
 * Figure out an equation that can be converted into code that will infer equivelants
 
+### Ruby on Rails
+* Build an app using Ruby
+
 ### Python
 * Using classes and objects, build a starship assembly GAME for building a cool 2D Ship, add set amount to spend so they have to budget their resources
 * Create a maze game
