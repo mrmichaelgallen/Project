@@ -17,6 +17,7 @@ Build a webscrapper that pulls Streak and longest streak, than displays in webpa
  * Has a top ten leaderboard of all time
  * Has a link to Videos on GitHub by Michael Allen (As well as templates)
  * Has a link to Philosphy of Markdown syntax
+ * Will display students URL link (active), Profile Pick
 * Allows students to add their own GitHub profile URL
   * Prevents them from entering extraneous URL script after profile link
   * Saves to the database
