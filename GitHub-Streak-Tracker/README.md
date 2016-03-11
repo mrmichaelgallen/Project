@@ -13,7 +13,15 @@ Build a webscrapper that pulls Streak and longest streak, than displays in webpa
 * Webscrapper
 * Database SQLite3 and Python for programming
 * Add to The Tech Academy LMS system in a web page
- * asdf
- * asdf
+ * Has a list of students sorted by longest current streak
+ * Has a top ten leaderboard of all time
+ * Has a link to Videos on GitHub by Michael Allen (As well as templates)
+ * Has a link to Philosphy of Markdown syntax
+* Allows students to add their own GitHub profile URL
+  * Prevents them from entering extraneous URL script after profile link
+  * Saves to the database
+  * Database will compare and remove duplicates
+  * Will not allow students to delete
+  * Will have an admin section to allow staff to add/remove students
 
 
