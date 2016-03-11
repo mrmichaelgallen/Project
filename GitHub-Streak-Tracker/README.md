@@ -13,7 +13,7 @@ Build a webscrapper that pulls Streak and longest streak, than displays in webpa
 * Webscrapper
 * Database SQLite3 and Python for programming
 * Add to The Tech Academy LMS system in a web page
-** asdf
-** asdf
+ * asdf
+ * asdf
 
 
