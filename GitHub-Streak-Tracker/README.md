@@ -20,6 +20,7 @@ Build a webscrapper that pulls student' GitHub users current Streak and longest 
  * Will display students URL link (active), Profile Pick
 * Allows students to add their own GitHub profile URL
   * Prevents them from entering extraneous URL script after profile link
+  * add filter for current students versus all students versus past students (or based time elements so past students are hogging the leaderboard)
   * Saves to the database
   * Database will compare and remove duplicates
   * Will not allow students to delete
