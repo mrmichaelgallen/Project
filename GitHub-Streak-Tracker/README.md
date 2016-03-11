@@ -9,3 +9,11 @@ The goal is to development an incentive for students to be actively engaged in G
 
 Build a webscrapper that pulls Streak and longest streak, than displays in webpage with URL link to Students at The Tech Academy. The data will be sorted by the longest current streak and a section that will display the longest 10 streaks ever.
 
+#### Requirements
+* Webscrapper
+* Database SQLite3 and Python for programming
+* Add to The Tech Academy LMS system in a web page
+** asdf
+** asdf
+
+
