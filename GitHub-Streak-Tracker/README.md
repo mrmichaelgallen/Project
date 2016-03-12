@@ -10,7 +10,7 @@ The goal is to development an incentive for students to be actively engaged in G
 Build a webscrapper that pulls student' GitHub users current Streak and longest streak, than displays in webpage with URL link to Students at The Tech Academy. The data will be sorted by the longest current streak and a section that will display the longest 10 streaks ever.
 
 #### Requirements
-* Webscrapper
+* Webscrapper - grabs profile pic, current streak, longest streak
 * Database SQLite3 and Python for programming
 * Add to The Tech Academy LMS system in a web page
  * Has a list of students sorted by longest current streak
@@ -25,6 +25,6 @@ Build a webscrapper that pulls student' GitHub users current Streak and longest 
   * Database will compare and remove duplicates
   * Will not allow students to delete
   * Will have an admin section to allow staff to add/remove students
- * Security - SQL Injection deterants in programming
+ * Security - SQL Injection deterants in code
 
 
