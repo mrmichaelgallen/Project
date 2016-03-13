@@ -59,3 +59,4 @@ This is my repository for ideas that I want to develop.
 
 #### Drones
 * An app that lets you command mini drones to create a light show (replace fireworks)
+* Camera following drone for big events
