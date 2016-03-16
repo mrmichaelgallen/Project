@@ -26,7 +26,7 @@ This is my repository for ideas that I want to develop.
 * Creating moving creatures from CSS, flowers that bloom, users interaction with mouse that causes cars to move
 * Creating an interactive scene using CSS and images (Dog image coming out of the Doghouse when hover over is done)
 * Smiley face that blinks, winks and frowns
-* Bricks to Pyramids formation.
+* Bricks to Pyramids formation
 
 ### Github
 * Create a script to rename (move) multiple files from one path to another.
@@ -49,7 +49,7 @@ This is my repository for ideas that I want to develop.
 * App to help people learn terms
 * Create a database dictionary for tech terms that also can be a flash cards (using SQLite3 and Python)
 * Build an app that shows a to do list
-* Testing
+* Testing app
 
 ### Social Justice
 * Apps to help poor manage resources better and get help when needed
