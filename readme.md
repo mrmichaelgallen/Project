@@ -15,6 +15,7 @@ This is my repository for ideas that I want to develop.
 * Build an app to keep track of students course progress (with gui, webbased, date of completion, time in course)
 * Create a program for detecting ad hominens and other fallacies arguments in print media
 * Webscrapper to pull Boston Marathon results from baa.org site and repost data to Portfolio site.
+* App to destroy "peeps" candy
 
 ### Productivity
 * Program that helps people use the keyboard on a computer (Teaching them how to maximize it, timing them on speed, and doing a Hackathon timed event)
