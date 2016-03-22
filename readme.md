@@ -23,6 +23,7 @@ This is my repository for ideas that I want to develop.
 * An application that has a to do list always available as a popout from the side of the screen
 * Check list for bootcamp students
 * App to remind of pending transactions and Due dates
+* Build a reminder app for GitHub
 
 ### CSS Animation Projects
 * Creating moving creatures from CSS, flowers that bloom, users interaction with mouse that causes cars to move
@@ -66,3 +67,4 @@ This is my repository for ideas that I want to develop.
 
 #### Java
 * Build an app using Java
+
