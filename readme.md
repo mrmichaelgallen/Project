@@ -26,6 +26,7 @@ This is my repository for ideas that I want to develop.
 * Check list for bootcamp students
 * App to remind of pending transactions and Due dates
 * Build a reminder app for GitHub
+* Create a To Do list app that pulls Google Keep info and makes it visible on Desktop
 
 #### CSS Animation Projects
 * Creating moving creatures from CSS, flowers that bloom, users interaction with mouse that causes cars to move
