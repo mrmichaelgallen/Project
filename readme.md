@@ -25,7 +25,7 @@ This is my repository for ideas that I want to develop.
 * An application that has a to do list always available as a popout from the side of the screen
 * Check list for bootcamp students
 * App to remind of pending transactions and Due dates
-* Build a reminder app for GitHub
+* Build a reminder app for GitHub as soon as possible. 
 * Create a To Do list app that pulls Google Keep info and makes it visible on Desktop
 
 #### CSS Animation Projects
