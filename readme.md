@@ -4,7 +4,6 @@
 This is my repository for ideas that I want to develop.
 
 #### Fun Ideas
-* A running pace calculator
 * Webscrapper for GarminConnect DataSet
 * Webscrapper to grap latest APOD photos and download
 * A image file renaming program with GUI (Like a friend created for me back when digital photography started.
@@ -54,6 +53,7 @@ This is my repository for ideas that I want to develop.
 * Create an Exact "How Old You Are" by using birthdate and current date now()
 
 #### Running
+* A running pace calculator
 * Build a database of my events
 * Build a webscrapper that pulls running stats from websites and load to database
 * Social sharing app that allows users to text voice cheers to runners
@@ -76,10 +76,8 @@ This is my repository for ideas that I want to develop.
 * An app that lets you command mini drones to create a light show (replace fireworks)
 * Camera following drone for big events, then takes the photos uploads them on line and deletes them to keep memory clear.
 
-
 #### Java
 * Build an app using Java
-
 
 ### SQL
 * Build a database for tracking students daily reports and the types of answers
