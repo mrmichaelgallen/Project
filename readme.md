@@ -59,7 +59,7 @@ This is my repository for ideas that I want to develop.
 * Social sharing app that allows users to text voice cheers to runners
 * Calorie Burn App for miles run (considering height, weight, fitness level, distance)
 * Boston marathon results webscrapper
-* Boston Strong!!!!
+* Boston Strong!!!! Super Hot Boston then windy Boston!
 
 #### Other ideas
 * [ORRC Database](https://github.com/mrmichaelgallen/Projects-in-Progress/tree/master/ORRC_Database)
