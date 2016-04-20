@@ -43,7 +43,7 @@ This is my repository for ideas that I want to develop.
 #### Ruby on Rails
 * Build an app using Ruby
 * 99 bottles of pop on the wall
-* Pace calculator
+* Pace calculator for running
 
 #### Python
 * Using classes and objects, build a starship assembly GAME for building a cool 2D Ship, add set amount to spend so they have to budget their resources
@@ -60,6 +60,7 @@ This is my repository for ideas that I want to develop.
 * Calorie Burn App for miles run (considering height, weight, fitness level, distance)
 * Boston marathon results webscrapper
 * Boston Strong!!!! Super Hot Boston then windy Boston! Last Day in Boston!
+* 
 
 #### Other ideas
 * [ORRC Database](https://github.com/mrmichaelgallen/Projects-in-Progress/tree/master/ORRC_Database)
