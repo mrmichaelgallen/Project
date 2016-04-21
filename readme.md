@@ -60,7 +60,7 @@ This is my repository for ideas that I want to develop.
 * Calorie Burn App for miles run (considering height, weight, fitness level, distance)
 * Boston marathon results webscrapper
 * Boston Strong!!!! Super Hot Boston then windy Boston! Last Day in Boston!
-* 
+* Photo scrapper for running events
 
 #### Other ideas
 * [ORRC Database](https://github.com/mrmichaelgallen/Projects-in-Progress/tree/master/ORRC_Database)
