@@ -44,6 +44,7 @@ This is my repository for ideas that I want to develop.
 * Build an app using Ruby
 * 99 bottles of pop on the wall
 * Pace calculator for running
+* Develop a training webpage
 
 #### Python
 * Using classes and objects, build a starship assembly GAME for building a cool 2D Ship, add set amount to spend so they have to budget their resources
