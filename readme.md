@@ -33,6 +33,7 @@ This is my repository for ideas that I want to develop.
 * Creating an interactive scene using CSS and images (Dog image coming out of the Doghouse when hover over is done)
 * Smiley face that blinks, winks and frowns
 * Bricks to Pyramids formation
+* Running animation using CSS
 
 #### Github
 * Create a script to rename (move) multiple files from one path to another.
