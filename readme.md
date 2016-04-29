@@ -73,6 +73,7 @@ This is my repository for ideas that I want to develop.
 * Build an app that shows a to do list
 * Testing app
 * App for interview questions
+* Build a calerie tracking app
 
 #### Social Justice
 * Apps to help poor manage resources better and get help when needed
