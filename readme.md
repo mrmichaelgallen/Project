@@ -64,7 +64,7 @@ This is my repository for ideas that I want to develop.
 * Calorie Burn App for miles run (considering height, weight, fitness level, distance)
 * Boston marathon results webscrapper
 * Boston Strong!!!! Super Hot Boston then windy Boston! Last Day in Boston!
-* Photo scrapper for running events
+* Photo scrapper for running events and results
 * App to build business cards
 
 #### Other ideas
