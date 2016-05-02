@@ -57,7 +57,7 @@ This is my repository for ideas that I want to develop.
 * Create an Exact "How Old You Are" by using birthdate and current date now()
 
 #### Running
-* A running pace calculator
+* A running pace calculator (Pace, Distance, Time) Able to compare all three
 * Build a database of my events
 * Build a webscrapper that pulls running stats from websites and load to database
 * Social sharing app that allows users to text voice cheers to runners
