@@ -91,4 +91,5 @@ This is my repository for ideas that I want to develop.
 
 ### SQL
 * Build a database for tracking students daily reports and the types of answers
+* Build a flashcard app for testing definitions
 
