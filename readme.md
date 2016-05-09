@@ -88,6 +88,7 @@ This is my repository for ideas that I want to develop.
 
 #### Java
 * Build an app using Java
+* Build a comparison of syntax between C# and Java
 
 #### SQL
 * Build a database for tracking students daily reports and the types of answers
