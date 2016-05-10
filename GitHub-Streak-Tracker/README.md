@@ -27,4 +27,6 @@ Build a webscrapper that pulls student' GitHub users current Streak and longest 
   * Will have an admin section to allow staff to add/remove students
  * Security - SQL Injection deterants in code
 
+#### LMS integration
+* Assign project members to add to LMS systme 
 
