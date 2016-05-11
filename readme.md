@@ -75,7 +75,7 @@ This is my repository for ideas that I want to develop.
 * Testing app
 * App for interview questions
 * Build a calerie tracking app
-* TTA LMS Student Directory and Progress field to know where students are at
+* TTA LMS Student Directory and Progress field to know where students are at - Leaderboard
 
 #### Social Justice
 * Apps to help poor manage resources better and get help when needed
