@@ -98,3 +98,4 @@ This is my repository for ideas that I want to develop.
 
 #### Environment
 * App to register amount of electricty used for cooling home (Both A/C and fan)
+* App to track wild life sightings and post pic (Crowdsourcing for citizen scientist)
