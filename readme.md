@@ -34,6 +34,7 @@ This is my repository for ideas that I want to develop.
 * Smiley face that blinks, winks and frowns
 * Bricks to Pyramids formation
 * Running animation using CSS
+* Animation of scenes flowing over each other
 
 #### Github
 * Create a script to rename (move) multiple files from one path to another.
