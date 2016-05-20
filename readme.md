@@ -99,3 +99,6 @@ This is my repository for ideas that I want to develop.
 #### Environment
 * App to register amount of electricty used for cooling home (Both A/C and fan)
 * App to track wild life sightings and post pic (Crowdsourcing for citizen scientist)
+
+#### Code for America Ideas
+* Develop an app that you can take a photo, input 0 to a few inputs and send to appropriate government agency to notify them of an issue. The photo location information would help identify which entity should get it to respond.
