@@ -27,7 +27,7 @@ This is my repository for ideas that I want to develop.
 * App to remind of pending transactions and Due dates
 * Build a reminder app for GitHub as soon as possible. 
 * Create a To Do list app that pulls Google Keep info and makes it visible on Desktop
-* App to count past GitHub Streaks since they removed it from GitHub
+* App to count past GitHub Streaks since they removed it from GitHub, then logs the days in streak on my web portfolio
 
 #### CSS Animation Projects
 * Creating moving creatures from CSS, flowers that bloom, users interaction with mouse that causes cars to move
