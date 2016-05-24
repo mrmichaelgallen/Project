@@ -39,7 +39,7 @@ This is my repository for ideas that I want to develop.
 
 #### Github
 * Create a script to rename (move) multiple files from one path to another.
-* [GitHub Streak Tracker](https://github.com/mrmichaelgallen/Projects-in-Progress/tree/master/GitHub-Streak-Tracker) Build a webscrapper for GitHub to grab Tech Academy students current Streak and Longest streak. Then build a web page to display the information on LMS.
+* [GitHub Streak Tracker](https://github.com/mrmichaelgallen/Projects-in-Progress/tree/master/GitHub-Streak-Tracker) Build a webscrapper for GitHub to grab Tech Academy students current Streak and Longest streak. Then build a web page to display the information on LMS. Consider adding Leaderboard
 
 #### The "Case" Assignments
 * Figure out an equation that can be converted into code that will infer equivelants
