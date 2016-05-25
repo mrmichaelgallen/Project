@@ -92,6 +92,7 @@ This is my repository for ideas that I want to develop.
 #### Java
 * Build an app using Java
 * Build a comparison of syntax between C# and Java
+* Build a Glossary Database for The Tech Academy where students can filter by subject.
 
 #### SQL
 * Build a database for tracking students daily reports and the types of answers
