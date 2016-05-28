@@ -9,7 +9,7 @@
 
 ##### User Interface
 * Search box
-* item #2
+* Filters (By Event - Date - Runner)
 
 ##### Items to track
 * Races
