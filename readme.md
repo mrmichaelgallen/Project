@@ -68,7 +68,7 @@ This is my repository for ideas that I want to develop.
 * Boston marathon results webscrapper
 * Boston Strong!!!! Super Hot Boston then windy Boston! Last Day in Boston!
 * Photo scrapper for running events and results
-* App to build business cards for students
+
 
 #### Other ideas
 * [ORRC Database](https://github.com/mrmichaelgallen/Projects-in-Progress/tree/master/ORRC_Database)
@@ -79,6 +79,7 @@ This is my repository for ideas that I want to develop.
 * App for interview questions
 * Build a calerie tracking app
 * TTA LMS Student Directory and Progress field to know where students are at - Leaderboard
+* App to build business cards for students
 
 #### Social Justice
 * Apps to help poor manage resources better and get help when needed
