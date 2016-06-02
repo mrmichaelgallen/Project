@@ -4,7 +4,7 @@
 This is my repository for ideas that I want to develop.
 
 #### Fun Ideas
-* Webscrapper for GarminConnect DataSet
+* Webscrapper for GarminConnect DataSet for my health activities and races
 * Webscrapper to grap latest APOD photos and download
 * A image file renaming program with GUI (Like a friend created for me back when digital photography started.
 * 30 Day Coding Challenge?
@@ -68,7 +68,6 @@ This is my repository for ideas that I want to develop.
 * Boston marathon results webscrapper
 * Boston Strong!!!! Super Hot Boston then windy Boston! Last Day in Boston!
 * Photo scrapper for running events and results
-
 
 #### Other ideas
 * [ORRC Database](https://github.com/mrmichaelgallen/Projects-in-Progress/tree/master/ORRC_Database)
