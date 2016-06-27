@@ -99,6 +99,7 @@ This is my repository for ideas that I want to develop.
 * Build a database for tracking students daily reports and the types of answers
 * Build a flashcard app for testing definitions
 * Build database for past accomplishments, completed goals and future goals.
+* Build a database for tracking events
 
 #### Environment
 * App to register amount of electricty used for cooling home (Both A/C and fan)
