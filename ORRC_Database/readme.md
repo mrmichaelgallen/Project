@@ -13,14 +13,13 @@
 
 ##### Items to track
 * Races
-* Volunteer hours and type of 
+* Volunteer hours and type of work they did while volunteering
 * Board Membership and dates held post
-* 
 
 ##### A profile page
 * List all of the members
-* 
-
+* Anonymomity - Don't collect private information - Use a unique identifier
+* Miles run - Events run
 
 ##### Security
 * Make sure to have SQL Injection preventing coding
