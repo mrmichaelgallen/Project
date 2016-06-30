@@ -17,7 +17,6 @@ This is my repository for ideas that I want to develop.
 * App to for a game to destroy "peeps" candy 
 * Fun family friendly games like Charades app that require no board.
 * Expiration App that warns when your products are getting old
-* App for warranty deadlines for products
 
 #### Productivity
 * Program that helps people use the keyboard on a computer (Teaching them how to maximize it, timing them on speed, and doing a Hackathon timed event)
