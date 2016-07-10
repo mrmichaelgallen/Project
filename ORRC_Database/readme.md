@@ -15,11 +15,14 @@
 * Races
 * Volunteer hours and type of work they did while volunteering
 * Board Membership and dates held post
+* Race awards
+* Years as a member
 
 ##### A profile page
 * List all of the members
 * Anonymomity - Don't collect private information - Use a unique identifier
 * Miles run - Events run
+* For members that have passed, an in memorial notation
 
 ##### Security
 * Make sure to have SQL Injection preventing coding
