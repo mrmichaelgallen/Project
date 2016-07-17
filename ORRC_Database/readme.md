@@ -10,6 +10,7 @@
 ##### User Interface
 * Search box
 * Filters (By Event - Date - Runner)
+* Have a field showing years in Club
 
 ##### Items to track
 * Races
