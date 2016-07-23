@@ -64,7 +64,6 @@ This is my repository for ideas that I want to develop.
 * Social sharing app that allows users to text voice cheers to runners
 * Calorie Burn App for miles run (considering height, weight, fitness level, distance)
 * Boston marathon results webscrapper
-* Boston Strong!!!! Super Hot Boston then windy Boston! Last Day in Boston!
 * Photo scrapper for running events and results
 
 #### Other ideas
