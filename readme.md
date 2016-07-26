@@ -54,7 +54,7 @@ This is my repository for ideas that I want to develop.
 * Using classes and objects, build a starship assembly GAME for building a cool 2D Ship, add set amount to spend so they have to budget their resources
 * Create a maze game
 * Create text game
-* Create flashcard program for learning vocabulary
+* Create flashcard program for learning vocabulary for computer terms
 * Create an Exact "How Old You Are" by using birthdate and current date now()
 
 #### Running
