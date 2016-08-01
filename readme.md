@@ -32,7 +32,6 @@ This is my repository for ideas that I want to develop.
 #### CSS Animation Projects
 * Creating moving creatures from CSS, flowers that bloom, users interaction with mouse that causes cars to move
 * Creating an interactive scene using CSS and images (Dog image coming out of the Doghouse when hover over is done)
-* Smiley face that blinks, winks and frowns
 * Bricks to Pyramids formation
 * Running animation using CSS
 * Animation of scenes flowing over each other
