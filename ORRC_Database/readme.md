@@ -18,6 +18,7 @@
 * Board Membership and dates held post
 * Race awards
 * Years as a member
+* Memorial status for former members
 
 ##### A profile page
 * List all of the members
