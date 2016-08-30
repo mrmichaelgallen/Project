@@ -76,6 +76,9 @@ This is my repository for ideas that I want to develop.
 * TTA LMS Student Directory and Progress field to know where students are at - Leaderboard
 * App to build business cards for students
 
+#### GitHub Visual Studio Testing
+* Testing out Visual Studio sync
+
 #### Social Justice
 * Apps to help poor manage resources better and get help when needed
 * Apps for tracking when social services are available
