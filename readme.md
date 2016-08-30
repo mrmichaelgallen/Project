@@ -15,7 +15,7 @@ This is my repository for ideas that I want to develop.
 * Create a program for detecting ad hominens and other fallacies arguments in print media.
 * Webscrapper to pull Boston Marathon results from baa.org site and repost data to Portfolio site.
 * App to for a game to destroy "peeps" candy 
-* Fun family friendly games like Charades app that require no board.
+* Fun family friendly games like Charades app that require no board
 * Expiration App that warns when your products are getting old
 
 #### Productivity
