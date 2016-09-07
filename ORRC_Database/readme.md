@@ -7,6 +7,10 @@
 
 #### Requirements
 
+##### Miscellaneous
+* Ability to import results from timing vendors
+* Ability to have a volunteer data imported from Run Sign Up
+
 ##### User Interface
 * Search box
 * Filters (By Event - Date - Runner)
