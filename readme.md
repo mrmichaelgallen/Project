@@ -1,7 +1,7 @@
 ### Projects in Progress by Michael Allen
 ***
 
-This is my repository for ideas that I want to develop in the future
+This is my repository for ideas that I want to develop in the future. Hi Aaron
 
 #### Fun Ideas
 * Webscrapper for GarminConnect DataSet for my health activities and races
