@@ -1,7 +1,7 @@
 ### Projects in Progress by Michael Allen
 ***
 
-Version B
+Version A
 
 This is my repository for ideas that I want to develop in the future. Hi Aaron
 
